@@ -47,7 +47,7 @@ body {
 
 }
 
-.top-banner .link-btn {
+.link-btn {
     text-decoration: none;
     padding: 15px 30px;
     background-image: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
@@ -55,4 +55,27 @@ body {
     color: white;
 
 
+}
+
+.about {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    padding-top: 50px;
+
+}
+
+.about img {
+    width: 50%;
+}
+
+.about-right p {
+    font-size: 14px;
+    color: #18191F;
+    line-height: 160%;
+    padding-bottom: 70px;
+    padding-right: 150px;
+}
+
+.about-right {
+    padding-top: 100px;
 }
