@@ -79,3 +79,51 @@ body {
 .about-right {
     padding-top: 100px;
 }
+
+.recipies {
+    background-color: #f2eeee;
+    padding: 50px 0;
+}
+
+.recipies-top {
+    text-align: center;
+}
+
+.recipies-top h2 {
+    color: #676767;
+    font-size: 30px;
+}
+
+.recipies-top p {
+    padding: 0 450px;
+    color: #252525;
+    font-weight: 400;
+}
+
+.recipies-items {
+    padding: 10px 200px;
+}
+
+.recipies-items-single img {
+    width: 550px;
+    padding: 10px;
+}
+
+.recipies-items-single {
+    padding: 10px;
+    background-color: white;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+.recipies-items-single h3 {
+    color: #18191F;
+    padding-left: 10px;
+}
+
+.recipies-items-single p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    padding-left: 10px;
+}
